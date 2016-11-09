@@ -1,0 +1,14 @@
+/* And this is a comment in CSS. The comments are different than in HTML so PLEASE don't get that mixed up. It will break the code.*/
+/* Remember those classes we made? It's time to use those now. Follow my lead. */
+/* For testing purposes, we will change the background color to black and the text to white. */
+/* Now to commit both files. */
+.all	{
+	background-color: #000000;
+	}
+.mainOne{
+	}
+.plainText	{
+	color: #FFFFFF;
+	}
+.footer	{
+	}
