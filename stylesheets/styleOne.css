@@ -3,6 +3,7 @@
 /* For testing purposes, we will change the background color to black and the text to white. */
 /* Now to commit both files. */
 /* That worked. Now, let's add something more interesting to the site. Take this time now to add all the content in plain text that you want in your site. */
+/* It takes longer for CSS to update on your site. That being said, this seems like a good breaking point for Pt. I and make sure to watch the rest later. */
 .all	{
 	background-color: #FFFFFF;
 	}
