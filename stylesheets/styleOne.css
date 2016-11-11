@@ -21,3 +21,7 @@
 .spaceOcean	{
 	background-image: url(http://a1star.com/images/starsglow1.gif);
 	}
+.centerImage	{
+	display: block;
+	margin: auto;
+	}
